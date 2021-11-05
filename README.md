@@ -24,7 +24,7 @@ A list of themes can be found [here][themes]
 
 Modify transition animation with `-V transition=[none/fade/slide/convex/concave/zoom]`  
 
-Slide-level set to 2 allows for child slides to be spawned, Slide-level set to 1 only allows parent slides. 
+Slide-level set to 2 allows for child slides to be spawned, Slide-level set to 1 only allows for parent slides. 
 
 For an expansive list of customization options, refer to the revealjs [Configuration Options][config]
 
